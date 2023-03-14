@@ -1,0 +1,20 @@
+.btn:not(.btn-outline):not(.btn-dashed):not(.border-hover):not(.border-active):not(.btn-flush):not(.btn-icon) {
+    padding-top: 1% !important;
+    padding-bottom: 3% !important;
+}
+
+label > .custom-jobPrice-btn {
+    background-color: #26a1ab;
+    border-color: #26a1ab;
+    color: white;
+}
+
+label > .custom-jobPrice-btn:hover {
+    background-color: #218b95;
+    border-color: #218b95;
+    color: white;
+}
+
+.dx-button .dx-button-content {
+    padding: 4px !important;
+}
